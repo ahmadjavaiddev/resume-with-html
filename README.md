@@ -1,5 +1,7 @@
 # Personal Resume - HTML & CSS Assignment
 
+Live Link: https://resume-with-html-rho.vercel.app/
+
 This repository contains a single-page personal resume built using pure HTML and little bit CSS. The project replicates a specific design requirement, focusing on table structuring and semantic HTML.
 
 ## Project Overview
